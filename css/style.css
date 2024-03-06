@@ -135,5 +135,32 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;
+  width: 25%;
+}
+
+#chicago-history{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
+}
+
+#favorite{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
+}
+
+#photography{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
 }
