@@ -147,6 +147,10 @@ body{
   font-size: 110%;
 }
 
+#chicago-history h3{
+  text-align: center;
+}
+
 #favorite{
   background-color: whitesmoke;
   padding: 10px 2.5% 10px 2.5%;
@@ -154,6 +158,10 @@ body{
   margin-top: 10px;
   font-family: "Georgia",serif;
   font-size: 110%;
+}
+
+#favorite h3{
+  text-align: center;
 }
 
 #photography{
@@ -164,3 +172,13 @@ body{
   font-family: "Georgia",serif;
   font-size: 110%;
 }
+
+#photography h3{
+  text-align: center;
+}
+
+#skyline{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
