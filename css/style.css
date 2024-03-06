@@ -1,4 +1,5 @@
 #navigation ul{
+  display: block;
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -6,8 +7,9 @@
 }
 
 #navigation ul li {
+  display: block;
   float: left;
-  margin: 15px;
+  margin: 0px;
 }
 
 #navigation ul li a {
@@ -18,12 +20,21 @@
   text-align: center;
   width: 100px;
   padding: 10px 10px 10px 10px;
-  border-radius: 25px;
 }
 
 #navigation ul li a:hover{
   background-color: gray;
   color:black;
   font-weight: bold;
-  border-radius: 0px;
+  border-radius: 25px;
+}
+
+body{
+  background-color: lightgreen;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#contact{
+  background-color: whitesmoke;
 }
