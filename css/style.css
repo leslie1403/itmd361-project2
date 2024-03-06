@@ -1,5 +1,9 @@
+nav {
+  text-align: center;
+}
+
 #navigation ul{
-  display: block;
+  display: inline-block;
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -7,13 +11,13 @@
 }
 
 #navigation ul li {
-  display: block;
+  display: inline-block;
   float: left;
   margin: 0px;
 }
 
 #navigation ul li a {
-  display: block;
+  display: inline-block;
   background-color: forestgreen;
   color: white;
   font-family: "Arial",sans-serif;
@@ -37,4 +41,6 @@ body{
 
 #contact{
   background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 10px;
 }
