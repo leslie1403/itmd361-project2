@@ -33,6 +33,28 @@ nav {
   border-radius: 25px;
 }
 
+h1{
+   font-family: "Georgia",serif;
+   text-align: center;
+}
+
+h3{
+  font-family: "Georgia",serif;
+  font-size: 115%;
+  text-decoration: underline;
+}
+
+h4{
+  font-family: "Georgia",serif;
+  font-size: 110%;
+  font-style: italic;
+}
+
+ul,li,p{
+  font-family: "Georgia",serif;
+  font-size: 110%;
+}
+
 body{
   background-color: lightgreen;
   margin-left: 10%;
@@ -44,8 +66,13 @@ body{
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
-  font-family: "Georgia",serif;
-  font-size: 110%;
+}
+
+#iitLogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
 
 #education{
@@ -53,8 +80,6 @@ body{
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
-  font-family: "Georgia",serif;
-  font-size: 110%;
 }
 
 #experience{
@@ -62,11 +87,16 @@ body{
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
-  font-family: "Georgia",serif;
-  font-size: 110%;
 }
 
 #skills{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+}
+
+#history{
   background-color: whitesmoke;
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
@@ -75,8 +105,26 @@ body{
   font-size: 110%;
 }
 
-h1{
-   font-family: "Georgia",serif;
-   text-align: center;
+#hobby{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
 }
 
+#projects{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
+}
+
+#video{
+  width: 560px;
+  height: 315px;
+  margin-left: 10%;
+}
