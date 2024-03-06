@@ -126,5 +126,14 @@ body{
 #video{
   width: 560px;
   height: 315px;
-  margin-left: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#bunny{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 }
