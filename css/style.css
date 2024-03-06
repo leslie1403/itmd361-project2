@@ -1,5 +1,6 @@
 nav {
   text-align: center;
+  background-color: forestgreen;
 }
 
 #navigation ul{
@@ -18,9 +19,8 @@ nav {
 
 #navigation ul li a {
   display: inline-block;
-  background-color: forestgreen;
   color: white;
-  font-family: "Arial",sans-serif;
+  font-family: "Georgia",serif;
   text-align: center;
   width: 100px;
   padding: 10px 10px 10px 10px;
@@ -42,5 +42,41 @@ body{
 #contact{
   background-color: whitesmoke;
   padding: 10px 2.5% 10px 2.5%;
-  border-radius: 10px;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
 }
+
+#education{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
+}
+
+#experience{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
+}
+
+#skills{
+  background-color: whitesmoke;
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
+  font-family: "Georgia",serif;
+  font-size: 110%;
+}
+
+h1{
+   font-family: "Georgia",serif;
+   text-align: center;
+}
+
